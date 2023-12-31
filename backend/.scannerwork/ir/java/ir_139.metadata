@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.service.RoomService#getAvailableRooms(Ljava/time/LocalDate;Ljava/time/LocalDate;Ljava/lang/String;)Ljava/util/List;
+==
+findAvailableRoomsByDatesAndType com.dailycodework.lakesidehotel.repository.RoomRepository#findAvailableRoomsByDatesAndType(Ljava/time/LocalDate;Ljava/time/LocalDate;Ljava/lang/String;)Ljava/util/List;

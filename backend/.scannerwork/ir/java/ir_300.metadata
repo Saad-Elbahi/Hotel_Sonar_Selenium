@@ -1,0 +1,10 @@
+com.dailycodework.lakesidehotel.controller.RoomController#getAllRooms()LResponseEntity;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+com.dailycodework.lakesidehotel.controller.RoomController#getRoomResponse(Lcom/dailycodework/lakesidehotel/model/Room;)Lcom/dailycodework/lakesidehotel/response/RoomResponse;
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+getAllRooms com.dailycodework.lakesidehotel.service.IRoomService#getAllRooms()Ljava/util/List;
+getRoomPhotoByRoomId com.dailycodework.lakesidehotel.service.IRoomService#getRoomPhotoByRoomId(Ljava/lang/Long;)[B
+setPhoto com.dailycodework.lakesidehotel.response.RoomResponse#setPhoto(Ljava/lang/String;)V
+getId com.dailycodework.lakesidehotel.model.Room#getId()Ljava/lang/Long;

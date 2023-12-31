@@ -1,0 +1,15 @@
+
+Ocom.dailycodework.lakesidehotel.model.BookedRoom#getBookingId()Ljava/lang/Long;t
+j/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/model/BookedRoom.javaG G("1*¾
+1H	 H(Š
+‡
+H	 H(
+%0java.lang.Long"__id*_
+
+__unknown_file (C*A2
+0com.dailycodework.lakesidehotel.model.BookedRoom"
+	bookingId""
+H H(
+
+%0java.lang.LongB42
+0com.dailycodework.lakesidehotel.model.BookedRoomH

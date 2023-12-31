@@ -1,0 +1,11 @@
+com.dailycodework.lakesidehotel.security.jwt.JwtUtils#generateJwtTokenForUser(LAuthentication;)Ljava/lang/String;
+java.util.Date#<init>()V
+com.dailycodework.lakesidehotel.security.jwt.JwtUtils#key()Ljava/security/Key;
+java.util.Date#<init>(J)V
+java.util.Date#instance-init#
+==
+getAuthorities com.dailycodework.lakesidehotel.security.user.HotelUserDetails#getAuthorities()Ljava/util/Collection;
+getUsername com.dailycodework.lakesidehotel.security.user.HotelUserDetails#getUsername()Ljava/lang/String;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+getTime java.util.Date#getTime()J

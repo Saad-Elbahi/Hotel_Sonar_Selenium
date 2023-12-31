@@ -1,0 +1,6 @@
+model.BookedRoomTest#testSetBookingConfirmationCode()V
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+==
+getBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#getBookingConfirmationCode()Ljava/lang/String;
+setBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#setBookingConfirmationCode(Ljava/lang/String;)V

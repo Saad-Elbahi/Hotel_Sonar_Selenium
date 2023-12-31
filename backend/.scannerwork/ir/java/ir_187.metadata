@@ -1,0 +1,5 @@
+com.dailycodework.lakesidehotel.model.Role#removeUserFromRole(Lcom/dailycodework/lakesidehotel/model/User;)V
+==
+getRoles com.dailycodework.lakesidehotel.model.User#getRoles()Ljava/util/Collection;
+remove java.util.Collection#remove(Ljava/lang/Object;)Z
+getUsers com.dailycodework.lakesidehotel.model.Role#getUsers()Ljava/util/Collection;

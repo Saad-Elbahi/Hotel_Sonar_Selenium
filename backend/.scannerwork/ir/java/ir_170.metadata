@@ -1,0 +1,7 @@
+com.dailycodework.lakesidehotel.controller.BookingController#getAllBookings()LResponseEntity;
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+com.dailycodework.lakesidehotel.controller.BookingController#getBookingResponse(Lcom/dailycodework/lakesidehotel/model/BookedRoom;)Lcom/dailycodework/lakesidehotel/response/BookingResponse;
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+getAllBookings com.dailycodework.lakesidehotel.service.IBookingService#getAllBookings()Ljava/util/List;

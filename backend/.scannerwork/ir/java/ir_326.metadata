@@ -1,0 +1,14 @@
+model.RoomTest#testConstructors()V
+java.util.ArrayList#<init>()V
+com.dailycodework.lakesidehotel.model.Room#<init>()V
+com.dailycodework.lakesidehotel.model.Room#instance-init#
+java.util.ArrayList#instance-init#
+com.dailycodework.lakesidehotel.model.Room#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/math/BigDecimal;ZLjava/sql/Blob;Ljava/util/List;)V
+java.math.BigDecimal#valueOf(D)Ljava/math/BigDecimal;
+==
+getBookings com.dailycodework.lakesidehotel.model.Room#getBookings()Ljava/util/List;
+getRoomPrice com.dailycodework.lakesidehotel.model.Room#getRoomPrice()Ljava/math/BigDecimal;
+isEmpty java.util.List#isEmpty()Z
+isBooked com.dailycodework.lakesidehotel.model.Room#isBooked()Z
+getId com.dailycodework.lakesidehotel.model.Room#getId()Ljava/lang/Long;
+getRoomType com.dailycodework.lakesidehotel.model.Room#getRoomType()Ljava/lang/String;

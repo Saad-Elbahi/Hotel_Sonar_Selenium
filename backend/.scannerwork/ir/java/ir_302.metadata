@@ -1,0 +1,8 @@
+com.dailycodework.lakesidehotel.controller.RoomController#updateRoom(Ljava/lang/Long;Ljava/lang/String;Ljava/math/BigDecimal;LMultipartFile;)LResponseEntity;
+javax.sql.rowset.serial.SerialBlob#<init>([B)V
+javax.sql.rowset.serial.SerialBlob#instance-init#
+com.dailycodework.lakesidehotel.controller.RoomController#getRoomResponse(Lcom/dailycodework/lakesidehotel/model/Room;)Lcom/dailycodework/lakesidehotel/response/RoomResponse;
+==
+setPhoto com.dailycodework.lakesidehotel.model.Room#setPhoto(Ljava/sql/Blob;)V
+updateRoom com.dailycodework.lakesidehotel.service.IRoomService#updateRoom(Ljava/lang/Long;Ljava/lang/String;Ljava/math/BigDecimal;[B)Lcom/dailycodework/lakesidehotel/model/Room;
+getRoomPhotoByRoomId com.dailycodework.lakesidehotel.service.IRoomService#getRoomPhotoByRoomId(Ljava/lang/Long;)[B

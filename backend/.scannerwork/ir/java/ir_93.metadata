@@ -1,0 +1,6 @@
+request.LoginRequestTest#testValidLoginRequest()V
+com.dailycodework.lakesidehotel.request.LoginRequest#instance-init#
+com.dailycodework.lakesidehotel.request.LoginRequest#<init>()V
+==
+setPassword com.dailycodework.lakesidehotel.request.LoginRequest#setPassword(Ljava/lang/String;)V
+setEmail com.dailycodework.lakesidehotel.request.LoginRequest#setEmail(Ljava/lang/String;)V

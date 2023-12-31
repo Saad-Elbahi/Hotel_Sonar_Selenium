@@ -1,0 +1,9 @@
+com.dailycodework.lakesidehotel.service.RoomService#addNewRoom(LMultipartFile;Ljava/lang/String;Ljava/math/BigDecimal;)Lcom/dailycodework/lakesidehotel/model/Room;
+javax.sql.rowset.serial.SerialBlob#<init>([B)V
+com.dailycodework.lakesidehotel.model.Room#<init>()V
+com.dailycodework.lakesidehotel.model.Room#instance-init#
+javax.sql.rowset.serial.SerialBlob#instance-init#
+==
+setRoomType com.dailycodework.lakesidehotel.model.Room#setRoomType(Ljava/lang/String;)V
+setPhoto com.dailycodework.lakesidehotel.model.Room#setPhoto(Ljava/sql/Blob;)V
+setRoomPrice com.dailycodework.lakesidehotel.model.Room#setRoomPrice(Ljava/math/BigDecimal;)V

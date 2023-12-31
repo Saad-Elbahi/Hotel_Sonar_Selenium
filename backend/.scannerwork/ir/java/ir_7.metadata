@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.service.BookingService#findByBookingConfirmationCode(Ljava/lang/String;)Lcom/dailycodework/lakesidehotel/model/BookedRoom;
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findByBookingConfirmationCode com.dailycodework.lakesidehotel.repository.BookingRepository#findByBookingConfirmationCode(Ljava/lang/String;)Ljava/util/Optional;

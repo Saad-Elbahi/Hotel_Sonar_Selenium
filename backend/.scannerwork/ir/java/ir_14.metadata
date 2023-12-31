@@ -1,0 +1,5 @@
+model.RoleTest#testGetName()V
+com.dailycodework.lakesidehotel.model.Role#instance-init#
+com.dailycodework.lakesidehotel.model.Role#<init>(Ljava/lang/String;)V
+==
+getName com.dailycodework.lakesidehotel.model.Role#getName()Ljava/lang/String;

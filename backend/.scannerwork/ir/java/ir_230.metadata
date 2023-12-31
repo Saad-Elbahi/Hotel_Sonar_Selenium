@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.service.RoleService#removeAllUsersFromRole(Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/Role;
+java.util.Optional#ifPresent(Ljava/util/function/Consumer;)V
+java.util.Optional#get()Ljava/lang/Object;

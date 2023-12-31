@@ -1,0 +1,43 @@
+
+‹com.dailycodework.lakesidehotel.service.BookingService#roomIsAvailable(Lcom/dailycodework/lakesidehotel/model/BookedRoom;Ljava/util/List;)Zz
+p/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/service/BookingService.javaJ J(#"1*Ò
+1K K(°­
+K K((
+%0java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*@
+
+__unknown_file ($
+"
+existingBookingsjava.util.List2stream()­
+ª
+L \(l"
+%1java.util.function.Predicate"__declareFunction*g
+
+__unknown_file (KI
+G__sonar_lambda_1$com.dailycodework.lakesidehotel.service.BookingService½
+º
+
+__unknown_file (6
+"
+%1java.util.function.Predicate"
+bookingRequest"__id*`
+
+__unknown_file (D
+B
+bookingRequest0com.dailycodework.lakesidehotel.model.BookedRoom‹ˆ
+K ](
+%38boolean"Bjava.util.stream.Stream#noneMatch(Ljava/util/function/Predicate;)Z*;
+
+__unknown_file (
+
+%0java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%1java.util.function.Predicate2)noneMatch(Ljava/util/function/Predicate;)"
+K ](
+"":N
+J$ J(>B
+bookingRequest0com.dailycodework.lakesidehotel.model.BookedRoom:.
+J? J(`"
+existingBookingsjava.util.ListB:8
+6com.dailycodework.lakesidehotel.service.BookingServiceX

@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.controller.RoleController#getAllRoles()LResponseEntity;
+null
+==
+getRoles com.dailycodework.lakesidehotel.service.IRoleService#getRoles()Ljava/util/List;

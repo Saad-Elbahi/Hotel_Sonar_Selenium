@@ -1,0 +1,2 @@
+com.dailycodework.lakesidehotel.service.RoomService#deleteRoom(Ljava/lang/Long;)V
+java.util.Optional#isPresent()Z

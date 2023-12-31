@@ -1,0 +1,6 @@
+controller.RoleControllerTest#getAllRoles_ReturnsFound()V
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+getRoles com.dailycodework.lakesidehotel.service.IRoleService#getRoles()Ljava/util/List;
+getAllRoles com.dailycodework.lakesidehotel.controller.RoleController#getAllRoles()LResponseEntity;

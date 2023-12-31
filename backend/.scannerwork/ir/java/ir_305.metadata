@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.controller.RoomController#getAllBookingsByRoomId(Ljava/lang/Long;)Ljava/util/List;
+==
+getAllBookingsByRoomId com.dailycodework.lakesidehotel.service.BookingService#getAllBookingsByRoomId(Ljava/lang/Long;)Ljava/util/List;

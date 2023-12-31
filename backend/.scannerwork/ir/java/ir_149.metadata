@@ -1,0 +1,11 @@
+com.dailycodework.lakesidehotel.security.user.HotelUserDetails#buildUserDetails(Lcom/dailycodework/lakesidehotel/model/User;)Lcom/dailycodework/lakesidehotel/security/user/HotelUserDetails;
+java.util.stream.Collectors#toList()Ljava/util/stream/Collector;
+com.dailycodework.lakesidehotel.security.user.HotelUserDetails#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+com.dailycodework.lakesidehotel.security.user.HotelUserDetails#instance-init#
+==
+getRoles com.dailycodework.lakesidehotel.model.User#getRoles()Ljava/util/Collection;
+getPassword com.dailycodework.lakesidehotel.model.User#getPassword()Ljava/lang/String;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;
+getEmail com.dailycodework.lakesidehotel.model.User#getEmail()Ljava/lang/String;
+getId com.dailycodework.lakesidehotel.model.User#getId()Ljava/lang/Long;

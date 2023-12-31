@@ -1,0 +1,1 @@
+com.dailycodework.lakesidehotel.service.BookingService#<init>(Lcom/dailycodework/lakesidehotel/repository/BookingRepository;Lcom/dailycodework/lakesidehotel/service/IRoomService;)V

@@ -1,0 +1,13 @@
+com.dailycodework.lakesidehotel.service.UserService#registerUser(Lcom/dailycodework/lakesidehotel/model/User;)Lcom/dailycodework/lakesidehotel/model/User;
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+com.dailycodework.lakesidehotel.exception.UserAlreadyExistsException#instance-init#
+com.dailycodework.lakesidehotel.exception.UserAlreadyExistsException#<init>(Ljava/lang/String;)V
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;
+==
+setRoles com.dailycodework.lakesidehotel.model.User#setRoles(Ljava/util/Collection;)V
+getPassword com.dailycodework.lakesidehotel.model.User#getPassword()Ljava/lang/String;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getEmail com.dailycodework.lakesidehotel.model.User#getEmail()Ljava/lang/String;
+setPassword com.dailycodework.lakesidehotel.model.User#setPassword(Ljava/lang/String;)V
+findByName com.dailycodework.lakesidehotel.repository.RoleRepository#findByName(Ljava/lang/String;)Ljava/util/Optional;
+existsByEmail com.dailycodework.lakesidehotel.repository.UserRepository#existsByEmail(Ljava/lang/String;)Z

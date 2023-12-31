@@ -1,0 +1,5 @@
+model.UserTest#testGetEmail()V
+com.dailycodework.lakesidehotel.model.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+==
+getEmail com.dailycodework.lakesidehotel.model.User#getEmail()Ljava/lang/String;

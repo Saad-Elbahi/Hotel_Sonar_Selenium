@@ -1,0 +1,5 @@
+model.UserTest#testGetPassword()V
+com.dailycodework.lakesidehotel.model.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+==
+getPassword com.dailycodework.lakesidehotel.model.User#getPassword()Ljava/lang/String;

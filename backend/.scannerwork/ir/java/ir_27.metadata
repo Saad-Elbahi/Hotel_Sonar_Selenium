@@ -1,0 +1,7 @@
+model.BookedRoomTest#testSetNumOfAdults()V
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+==
+setNumOfAdults com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfAdults(I)V
+getTotalNumOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#getTotalNumOfGuest()I
+getNumOfAdults com.dailycodework.lakesidehotel.model.BookedRoom#getNumOfAdults()I

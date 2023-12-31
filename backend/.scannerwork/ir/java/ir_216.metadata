@@ -1,0 +1,1 @@
+com.dailycodework.lakesidehotel.security.WebSecurityConfig#<init>(Lcom/dailycodework/lakesidehotel/security/user/HotelUserDetailsService;Lcom/dailycodework/lakesidehotel/security/jwt/JwtAuthEntryPoint;)V

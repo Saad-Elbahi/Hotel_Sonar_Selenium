@@ -1,0 +1,14 @@
+model.RoleTest#testRemoveAllUsersFromRole()V
+com.dailycodework.lakesidehotel.model.Role#instance-init#
+java.util.HashSet#<init>()V
+com.dailycodework.lakesidehotel.model.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+com.dailycodework.lakesidehotel.model.Role#<init>(Ljava/lang/String;)V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+java.util.HashSet#instance-init#
+==
+getRoles com.dailycodework.lakesidehotel.model.User#getRoles()Ljava/util/Collection;
+assignRoleToUser com.dailycodework.lakesidehotel.model.Role#assignRoleToUser(Lcom/dailycodework/lakesidehotel/model/User;)V
+getUsers com.dailycodework.lakesidehotel.model.Role#getUsers()Ljava/util/Collection;
+add java.util.Collection#add(Ljava/lang/Object;)Z
+removeAllUsersFromRole com.dailycodework.lakesidehotel.model.Role#removeAllUsersFromRole()V
+isEmpty java.util.Collection#isEmpty()Z

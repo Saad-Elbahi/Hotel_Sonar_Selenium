@@ -1,0 +1,9 @@
+com.dailycodework.lakesidehotel.service.RoomService#getRoomPhotoByRoomId(Ljava/lang/Long;)[B
+java.util.Optional#isEmpty()Z
+com.dailycodework.lakesidehotel.exception.ResourceNotFoundException#instance-init#
+java.util.Optional#get()Ljava/lang/Object;
+com.dailycodework.lakesidehotel.exception.ResourceNotFoundException#<init>(Ljava/lang/String;)V
+==
+getPhoto com.dailycodework.lakesidehotel.model.Room#getPhoto()Ljava/sql/Blob;
+getBytes java.sql.Blob#getBytes(JI)[B
+length java.sql.Blob#length()J

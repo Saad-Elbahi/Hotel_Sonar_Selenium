@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.service.RoleService#deleteRole(Ljava/lang/Long;)V
+==
+removeAllUsersFromRole com.dailycodework.lakesidehotel.service.RoleService#removeAllUsersFromRole(Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/Role;

@@ -1,0 +1,24 @@
+model.BookedRoomTest#testGettersAndSetters()V
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusDays(J)Ljava/time/LocalDate;
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+==
+getCheckOutDate com.dailycodework.lakesidehotel.model.BookedRoom#getCheckOutDate()Ljava/time/LocalDate;
+getBookingId com.dailycodework.lakesidehotel.model.BookedRoom#getBookingId()Ljava/lang/Long;
+setBookingId com.dailycodework.lakesidehotel.model.BookedRoom#setBookingId(Ljava/lang/Long;)V
+setCheckInDate com.dailycodework.lakesidehotel.model.BookedRoom#setCheckInDate(Ljava/time/LocalDate;)V
+setNumOfAdults com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfAdults(I)V
+setBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#setBookingConfirmationCode(Ljava/lang/String;)V
+getNumOfAdults com.dailycodework.lakesidehotel.model.BookedRoom#getNumOfAdults()I
+getCheckInDate com.dailycodework.lakesidehotel.model.BookedRoom#getCheckInDate()Ljava/time/LocalDate;
+getBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#getBookingConfirmationCode()Ljava/lang/String;
+setGuestFullName com.dailycodework.lakesidehotel.model.BookedRoom#setGuestFullName(Ljava/lang/String;)V
+getGuestEmail com.dailycodework.lakesidehotel.model.BookedRoom#getGuestEmail()Ljava/lang/String;
+setCheckOutDate com.dailycodework.lakesidehotel.model.BookedRoom#setCheckOutDate(Ljava/time/LocalDate;)V
+setNumOfChildren com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfChildren(I)V
+getGuestFullName com.dailycodework.lakesidehotel.model.BookedRoom#getGuestFullName()Ljava/lang/String;
+getTotalNumOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#getTotalNumOfGuest()I
+setTotalNumOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#setTotalNumOfGuest(I)V
+getNumOfChildren com.dailycodework.lakesidehotel.model.BookedRoom#getNumOfChildren()I
+setGuestEmail com.dailycodework.lakesidehotel.model.BookedRoom#setGuestEmail(Ljava/lang/String;)V

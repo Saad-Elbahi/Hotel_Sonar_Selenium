@@ -1,0 +1,8 @@
+model.BookedRoomTest#testCalculateTotalNumberOfGuest()V
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+==
+calculateTotalNumberOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#calculateTotalNumberOfGuest()V
+setNumOfChildren com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfChildren(I)V
+setNumOfAdults com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfAdults(I)V
+getTotalNumOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#getTotalNumOfGuest()I

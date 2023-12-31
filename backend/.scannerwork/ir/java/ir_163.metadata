@@ -1,0 +1,6 @@
+controller.RoleControllerTest#removeUserFromRole_ValidUserIdAndRoleId_CallsService()V
+com.dailycodework.lakesidehotel.model.User#<init>()V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+==
+removeUserFromRole com.dailycodework.lakesidehotel.controller.RoleController#removeUserFromRole(Ljava/lang/Long;Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/User;
+removeUserFromRole com.dailycodework.lakesidehotel.service.IRoleService#removeUserFromRole(Ljava/lang/Long;Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/User;

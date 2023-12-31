@@ -1,0 +1,47 @@
+
+ocom.dailycodework.lakesidehotel.service.BookingService#getAllBookingsByRoomId(Ljava/lang/Long;)Ljava/util/List;z
+p/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/service/BookingService.java- -(2"startingBlock*†
+startingBlock-2 -(?‹
+ˆ
+, ,(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+roomIdjava.lang.LongX
+V
+-8 -(>
+roomIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*
+1*Ç
+1. .( Æ
+Ã
+. .( B
+%0<com.dailycodework.lakesidehotel.repository.BookingRepository"__id*m
+
+__unknown_file (Q*O8
+6com.dailycodework.lakesidehotel.service.BookingService"
+bookingRepositoryÊÇ
+. .(5
+%1java.util.List"kcom.dailycodework.lakesidehotel.repository.BookingRepository#findByRoomId(Ljava/lang/Long;)Ljava/util/List;*`
+
+__unknown_file (D
+B
+%0<com.dailycodework.lakesidehotel.repository.BookingRepository*6
+
+__unknown_file (
+
+roomIdjava.lang.Long2findByRoomId(Ljava/lang/Long;)""
+. .(6
+
+%1java.util.List:$
+-3 -(>
+roomIdjava.lang.LongB:8
+6com.dailycodework.lakesidehotel.service.BookingServiceH

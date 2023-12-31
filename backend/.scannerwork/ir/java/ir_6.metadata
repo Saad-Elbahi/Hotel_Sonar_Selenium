@@ -1,0 +1,13 @@
+com.dailycodework.lakesidehotel.service.BookingService#saveBooking(Ljava/lang/Long;Lcom/dailycodework/lakesidehotel/model/BookedRoom;)Ljava/lang/String;
+com.dailycodework.lakesidehotel.exception.InvalidBookingRequestException#<init>(Ljava/lang/String;)V
+com.dailycodework.lakesidehotel.service.BookingService#roomIsAvailable(Lcom/dailycodework/lakesidehotel/model/BookedRoom;Ljava/util/List;)Z
+com.dailycodework.lakesidehotel.exception.InvalidBookingRequestException#instance-init#
+java.util.Optional#get()Ljava/lang/Object;
+java.time.LocalDate#isBefore(Ljava/time/chrono/ChronoLocalDate;)Z
+==
+getCheckInDate com.dailycodework.lakesidehotel.model.BookedRoom#getCheckInDate()Ljava/time/LocalDate;
+getBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#getBookingConfirmationCode()Ljava/lang/String;
+getCheckOutDate com.dailycodework.lakesidehotel.model.BookedRoom#getCheckOutDate()Ljava/time/LocalDate;
+getRoomById com.dailycodework.lakesidehotel.service.IRoomService#getRoomById(Ljava/lang/Long;)Ljava/util/Optional;
+getBookings com.dailycodework.lakesidehotel.model.Room#getBookings()Ljava/util/List;
+addBooking com.dailycodework.lakesidehotel.model.Room#addBooking(Lcom/dailycodework/lakesidehotel/model/BookedRoom;)V

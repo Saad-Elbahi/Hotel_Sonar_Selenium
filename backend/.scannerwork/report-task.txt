@@ -1,0 +1,7 @@
+organization=saadbnbr
+projectKey=saadbnbr_hotel-sonarel-ch-to
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=saadbnbr_hotel-sonarel-ch-to
+ceTaskId=AYzBeaZHw9aIP1mwWbUx
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzBeaZHw9aIP1mwWbUx

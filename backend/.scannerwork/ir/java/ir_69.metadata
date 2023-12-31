@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>(Ljava/lang/Long;Ljava/time/LocalDate;Ljava/time/LocalDate;Ljava/lang/String;Ljava/lang/String;IIILjava/lang/String;Lcom/dailycodework/lakesidehotel/model/Room;)V
+==
+<init> java.lang.Object#<init>()V

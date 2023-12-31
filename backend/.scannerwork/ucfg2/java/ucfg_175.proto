@@ -1,0 +1,65 @@
+
+ˆcom.dailycodework.lakesidehotel.service.RoleService#removeAllUsersFromRole(Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/Role;w
+m/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/service/RoleService.javaR R(&"startingBlock*†
+startingBlockR& R(3‹
+ˆ
+Q Q(
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+roleIdjava.lang.LongX
+V
+R, R(2
+roleIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%4*
+1*†
+1S S(,½
+º
+S S(,?
+%09com.dailycodework.lakesidehotel.repository.RoleRepository"__id*g
+
+__unknown_file (K*I5
+3com.dailycodework.lakesidehotel.service.RoleService"
+roleRepositoryR
+P
+S S(>
+rolejava.util.Optional"__id*"
+
+__unknown_file (
+""ßÜ
+T T(4
+
+%1void"<java.util.Optional#ifPresent(Ljava/util/function/Consumer;)V*8
+
+__unknown_file (
+
+rolejava.util.Optional*"
+
+__unknown_file (
+""2(ifPresent(Ljava/util/function/Consumer;)½
+º
+U U(?
+%29com.dailycodework.lakesidehotel.repository.RoleRepository"__id*g
+
+__unknown_file (K*I5
+3com.dailycodework.lakesidehotel.service.RoleService"
+roleRepository¬©
+U# U(-0
+%3*com.dailycodework.lakesidehotel.model.Role"*java.util.Optional#get()Ljava/lang/Object;*8
+
+__unknown_file (
+
+rolejava.util.Optional2get()"
+U U(/
+"":$
+R' R(2
+roleIdjava.lang.LongB75
+3com.dailycodework.lakesidehotel.service.RoleServiceH

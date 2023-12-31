@@ -1,0 +1,5 @@
+com.dailycodework.lakesidehotel.model.Role#assignRoleToUser(Lcom/dailycodework/lakesidehotel/model/User;)V
+==
+getRoles com.dailycodework.lakesidehotel.model.User#getRoles()Ljava/util/Collection;
+getUsers com.dailycodework.lakesidehotel.model.Role#getUsers()Ljava/util/Collection;
+add java.util.Collection#add(Ljava/lang/Object;)Z

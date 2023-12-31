@@ -1,0 +1,9 @@
+com.dailycodework.lakesidehotel.service.RoleService#createRole(Lcom/dailycodework/lakesidehotel/model/Role;)Lcom/dailycodework/lakesidehotel/model/Role;
+com.dailycodework.lakesidehotel.exception.RoleAlreadyExistException#<init>(Ljava/lang/String;)V
+java.lang.String#toUpperCase()Ljava/lang/String;
+com.dailycodework.lakesidehotel.model.Role#instance-init#
+com.dailycodework.lakesidehotel.exception.RoleAlreadyExistException#instance-init#
+com.dailycodework.lakesidehotel.model.Role#<init>(Ljava/lang/String;)V
+==
+existsByName com.dailycodework.lakesidehotel.repository.RoleRepository#existsByName(Ljava/lang/String;)Z
+getName com.dailycodework.lakesidehotel.model.Role#getName()Ljava/lang/String;

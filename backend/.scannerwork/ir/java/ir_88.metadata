@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.model.BookedRoom#setNumOfAdults(I)V
+==
+calculateTotalNumberOfGuest com.dailycodework.lakesidehotel.model.BookedRoom#calculateTotalNumberOfGuest()V

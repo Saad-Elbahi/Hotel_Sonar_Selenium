@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.service.RoleService#findByName(Ljava/lang/String;)Lcom/dailycodework/lakesidehotel/model/Role;
+java.util.Optional#get()Ljava/lang/Object;
+==
+findByName com.dailycodework.lakesidehotel.repository.RoleRepository#findByName(Ljava/lang/String;)Ljava/util/Optional;

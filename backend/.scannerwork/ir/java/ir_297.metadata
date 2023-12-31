@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.controller.RoomController#<init>(Lcom/dailycodework/lakesidehotel/service/IRoomService;Lcom/dailycodework/lakesidehotel/service/BookingService;)V
+==
+<init> java.lang.Object#<init>()V

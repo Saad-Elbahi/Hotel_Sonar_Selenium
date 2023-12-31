@@ -1,0 +1,15 @@
+
+Dcom.dailycodework.lakesidehotel.model.Room#getPhoto()Ljava/sql/Blob;n
+d/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/model/Room.javaJ J("1*°
+1K	 K(~
+|
+K	 K(
+%0java.sql.Blob"__id*U
+
+__unknown_file (9*7,
+*com.dailycodework.lakesidehotel.model.Room"
+photo"!
+K K(
+
+%0java.sql.BlobB.,
+*com.dailycodework.lakesidehotel.model.RoomH

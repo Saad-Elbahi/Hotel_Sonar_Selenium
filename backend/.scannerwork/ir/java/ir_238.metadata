@@ -1,0 +1,10 @@
+response.JwtResponseTest#testJwtResponseConstructor()V
+com.dailycodework.lakesidehotel.response.JwtResponse#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)V
+com.dailycodework.lakesidehotel.response.JwtResponse#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+==
+getType com.dailycodework.lakesidehotel.response.JwtResponse#getType()Ljava/lang/String;
+getEmail com.dailycodework.lakesidehotel.response.JwtResponse#getEmail()Ljava/lang/String;
+getToken com.dailycodework.lakesidehotel.response.JwtResponse#getToken()Ljava/lang/String;
+getRoles com.dailycodework.lakesidehotel.response.JwtResponse#getRoles()Ljava/util/List;
+getId com.dailycodework.lakesidehotel.response.JwtResponse#getId()Ljava/lang/Long;

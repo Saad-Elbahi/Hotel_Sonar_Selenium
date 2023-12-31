@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.service.BookingService#roomIsAvailable(Lcom/dailycodework/lakesidehotel/model/BookedRoom;Ljava/util/List;)Z
+==
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+noneMatch java.util.stream.Stream#noneMatch(Ljava/util/function/Predicate;)Z

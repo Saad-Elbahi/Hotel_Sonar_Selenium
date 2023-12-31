@@ -1,0 +1,8 @@
+com.dailycodework.lakesidehotel.service.RoleService#removeUserFromRole(Ljava/lang/Long;Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/User;
+null
+java.util.Optional#isPresent()Z
+java.util.Optional#get()Ljava/lang/Object;
+==
+removeUserFromRole com.dailycodework.lakesidehotel.model.Role#removeUserFromRole(Lcom/dailycodework/lakesidehotel/model/User;)V
+getUsers com.dailycodework.lakesidehotel.model.Role#getUsers()Ljava/util/Collection;
+contains java.util.Collection#contains(Ljava/lang/Object;)Z

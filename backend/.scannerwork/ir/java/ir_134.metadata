@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.service.RoomService#getAllRoomTypes()Ljava/util/List;
+==
+findDistinctRoomTypes com.dailycodework.lakesidehotel.repository.RoomRepository#findDistinctRoomTypes()Ljava/util/List;

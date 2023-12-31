@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.controller.RoomController#getRoomById(Ljava/lang/Long;)LResponseEntity;
+java.util.Optional#map(Ljava/util/function/Function;)Ljava/util/Optional;
+==
+getRoomById com.dailycodework.lakesidehotel.service.IRoomService#getRoomById(Ljava/lang/Long;)Ljava/util/Optional;

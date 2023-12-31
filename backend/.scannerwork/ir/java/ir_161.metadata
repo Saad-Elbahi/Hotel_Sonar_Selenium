@@ -1,0 +1,3 @@
+controller.RoleControllerTest#deleteRole_ValidRoleId_CallsService()V
+==
+deleteRole com.dailycodework.lakesidehotel.controller.RoleController#deleteRole(Ljava/lang/Long;)V

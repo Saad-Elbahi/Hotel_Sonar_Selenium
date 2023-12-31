@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.security.WebSecurityConfig#authenticationProvider()LDaoAuthenticationProvider;
+null
+==
+passwordEncoder com.dailycodework.lakesidehotel.security.WebSecurityConfig#passwordEncoder()LPasswordEncoder;

@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.controller.BookingController#cancelBooking(Ljava/lang/Long;)V
+==
+cancelBooking com.dailycodework.lakesidehotel.service.IBookingService#cancelBooking(Ljava/lang/Long;)V

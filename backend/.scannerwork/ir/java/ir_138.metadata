@@ -1,0 +1,2 @@
+com.dailycodework.lakesidehotel.service.RoomService#getRoomById(Ljava/lang/Long;)Ljava/util/Optional;
+java.util.Optional#of(Ljava/lang/Object;)Ljava/util/Optional;

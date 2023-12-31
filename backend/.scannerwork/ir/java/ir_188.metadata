@@ -1,0 +1,6 @@
+com.dailycodework.lakesidehotel.model.Role#removeAllUsersFromRole()V
+==
+forEach java.lang.Iterable#forEach(Ljava/util/function/Consumer;)V
+getUsers com.dailycodework.lakesidehotel.model.Role#getUsers()Ljava/util/Collection;
+stream java.util.Collection#stream()Ljava/util/stream/Stream;
+toList java.util.stream.Stream#toList()Ljava/util/List;

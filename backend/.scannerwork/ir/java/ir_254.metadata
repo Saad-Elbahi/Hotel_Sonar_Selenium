@@ -1,0 +1,6 @@
+controller.BookingControllerTest#getAllBookings_AdminRole_ReturnsOk()V
+java.util.ArrayList#<init>()V
+java.util.ArrayList#instance-init#
+==
+getAllBookings com.dailycodework.lakesidehotel.controller.BookingController#getAllBookings()LResponseEntity;
+getAllBookings com.dailycodework.lakesidehotel.service.IBookingService#getAllBookings()Ljava/util/List;

@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.service.UserService#deleteUser(Ljava/lang/String;)V
+==
+deleteByEmail com.dailycodework.lakesidehotel.repository.UserRepository#deleteByEmail(Ljava/lang/String;)V
+getUser com.dailycodework.lakesidehotel.service.UserService#getUser(Ljava/lang/String;)Lcom/dailycodework/lakesidehotel/model/User;

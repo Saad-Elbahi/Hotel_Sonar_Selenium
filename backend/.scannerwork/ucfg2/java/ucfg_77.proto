@@ -1,0 +1,20 @@
+
+D__sonar_lambda_2$com.dailycodework.lakesidehotel.service.UserServicew
+m/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/service/UserService.java( ((c"1*ù
+1(= ((bUS
+(' ((<&
+%15java.lang.IllegalStateException"java.lang.IllegalStateExceptionÜ
+Ù
+(# ((c
+%16";java.lang.IllegalStateException#<init>(Ljava/lang/String;)V*D
+
+__unknown_file ((
+&
+%15java.lang.IllegalStateException*C
+
+__unknown_file ('%
+#ROLE_USER not found in the database"4
+(# ((c(
+&
+%15java.lang.IllegalStateExceptionB
+java.util.function.Supplier

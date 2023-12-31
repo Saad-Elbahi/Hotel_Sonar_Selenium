@@ -1,0 +1,1 @@
+com.dailycodework.lakesidehotel.security.WebSecurityConfig#authenticationManager(LAuthenticationConfiguration;)LAuthenticationManager;

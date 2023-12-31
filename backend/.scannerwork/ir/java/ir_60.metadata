@@ -1,0 +1,5 @@
+model.UserTest#testGetLastName()V
+com.dailycodework.lakesidehotel.model.User#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Collection;)V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+==
+getLastName com.dailycodework.lakesidehotel.model.User#getLastName()Ljava/lang/String;

@@ -1,0 +1,17 @@
+model.RoomTest#testAddBooking()V
+com.dailycodework.lakesidehotel.model.Room#<init>()V
+com.dailycodework.lakesidehotel.model.Room#instance-init#
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+java.math.BigDecimal#valueOf(D)Ljava/math/BigDecimal;
+==
+getBookingConfirmationCode com.dailycodework.lakesidehotel.model.BookedRoom#getBookingConfirmationCode()Ljava/lang/String;
+setRoomType com.dailycodework.lakesidehotel.model.Room#setRoomType(Ljava/lang/String;)V
+contains java.util.List#contains(Ljava/lang/Object;)Z
+setRoomPrice com.dailycodework.lakesidehotel.model.Room#setRoomPrice(Ljava/math/BigDecimal;)V
+getRoom com.dailycodework.lakesidehotel.model.BookedRoom#getRoom()Lcom/dailycodework/lakesidehotel/model/Room;
+setBookingId com.dailycodework.lakesidehotel.model.BookedRoom#setBookingId(Ljava/lang/Long;)V
+addBooking com.dailycodework.lakesidehotel.model.Room#addBooking(Lcom/dailycodework/lakesidehotel/model/BookedRoom;)V
+getBookings com.dailycodework.lakesidehotel.model.Room#getBookings()Ljava/util/List;
+setId com.dailycodework.lakesidehotel.model.Room#setId(Ljava/lang/Long;)V
+isBooked com.dailycodework.lakesidehotel.model.Room#isBooked()Z

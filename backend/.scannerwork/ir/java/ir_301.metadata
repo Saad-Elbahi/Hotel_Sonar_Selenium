@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.controller.RoomController#deleteRoom(Ljava/lang/Long;)LResponseEntity;
+null
+==
+deleteRoom com.dailycodework.lakesidehotel.service.IRoomService#deleteRoom(Ljava/lang/Long;)V

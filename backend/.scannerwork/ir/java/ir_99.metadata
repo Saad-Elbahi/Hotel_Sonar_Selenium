@@ -1,0 +1,4 @@
+com.dailycodework.lakesidehotel.service.UserService#getUser(Ljava/lang/String;)Lcom/dailycodework/lakesidehotel/model/User;
+java.util.Optional#orElseThrow(Ljava/util/function/Supplier;)Ljava/lang/Object;
+==
+findByEmail com.dailycodework.lakesidehotel.repository.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;

@@ -1,0 +1,6 @@
+controller.BookingControllerTest#saveBooking_ValidBookingRequest_ReturnsOk()V
+com.dailycodework.lakesidehotel.model.BookedRoom#<init>()V
+com.dailycodework.lakesidehotel.model.BookedRoom#instance-init#
+==
+saveBooking com.dailycodework.lakesidehotel.service.IBookingService#saveBooking(Ljava/lang/Long;Lcom/dailycodework/lakesidehotel/model/BookedRoom;)Ljava/lang/String;
+saveBooking com.dailycodework.lakesidehotel.controller.BookingController#saveBooking(Ljava/lang/Long;Lcom/dailycodework/lakesidehotel/model/BookedRoom;)LResponseEntity;

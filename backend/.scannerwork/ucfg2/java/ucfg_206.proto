@@ -1,0 +1,32 @@
+
+rcom.dailycodework.lakesidehotel.controller.RoomController#getAllBookingsByRoomId(Ljava/lang/Long;)Ljava/util/List;
+s/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/controller/RoomController.javaú ú(3"1*—
+1
+ù ù(¬
+ø
+
+ù ù(<
+%06com.dailycodework.lakesidehotel.service.BookingService"__id*m
+
+__unknown_file (Q*O;
+9com.dailycodework.lakesidehotel.controller.RoomController"
+bookingService‘—
+
+ù ù(<
+%1java.util.List"ocom.dailycodework.lakesidehotel.service.BookingService#getAllBookingsByRoomId(Ljava/lang/Long;)Ljava/util/List;*Z
+
+__unknown_file (>
+<
+%06com.dailycodework.lakesidehotel.service.BookingService*6
+
+__unknown_file (
+
+roomIdjava.lang.Long2(getAllBookingsByRoomId(Ljava/lang/Long;)"$
+
+ù ù(=
+
+%1java.util.List:&
+
+ú4 ú(?
+roomIdjava.lang.LongB=;
+9com.dailycodework.lakesidehotel.controller.RoomController

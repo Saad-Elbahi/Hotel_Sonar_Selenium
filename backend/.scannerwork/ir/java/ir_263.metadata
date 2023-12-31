@@ -1,0 +1,8 @@
+response.RoomResponseTest#testRoomResponseConstructorWithoutPhotoAndBookings()V
+com.dailycodework.lakesidehotel.response.RoomResponse#instance-init#
+com.dailycodework.lakesidehotel.response.RoomResponse#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/math/BigDecimal;)V
+java.math.BigDecimal#valueOf(D)Ljava/math/BigDecimal;
+==
+getId com.dailycodework.lakesidehotel.response.RoomResponse#getId()Ljava/lang/Long;
+getRoomPrice com.dailycodework.lakesidehotel.response.RoomResponse#getRoomPrice()Ljava/math/BigDecimal;
+getRoomType com.dailycodework.lakesidehotel.response.RoomResponse#getRoomType()Ljava/lang/String;

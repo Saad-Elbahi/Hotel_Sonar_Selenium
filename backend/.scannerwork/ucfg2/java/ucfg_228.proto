@@ -1,0 +1,62 @@
+
+Žcom.dailycodework.lakesidehotel.controller.RoleController#removeAllUsersFromRole(Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/Role;}
+s/C:/Users/SAAD/Desktop/backend essabar/src/main/java/com/dailycodework/lakesidehotel/controller/RoleController.java3 3(&"startingBlock*«
+startingBlock3& 3(K„
+
+2 2(8
+%2"
+__annotate*+
+
+__unknown_file (
+PostMapping*6
+
+__unknown_file (
+
+roleIdjava.lang.Long…
+‚
+3' 3(>
+%3"
+__annotate*,
+
+__unknown_file (
+PathVariable*6
+
+__unknown_file (
+
+roleIdjava.lang.Long|
+z
+3D 3(J
+roleIdjava.lang.Long"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*•
+14 4(»
+¸
+4 4(:
+%04com.dailycodework.lakesidehotel.service.IRoleService"__id*j
+
+__unknown_file (N*L;
+9com.dailycodework.lakesidehotel.controller.RoleController"
+roleService‡„
+4 4(90
+%1*com.dailycodework.lakesidehotel.model.Role"‰com.dailycodework.lakesidehotel.service.IRoleService#removeAllUsersFromRole(Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/Role;*X
+
+__unknown_file (<
+:
+%04com.dailycodework.lakesidehotel.service.IRoleService*6
+
+__unknown_file (
+
+roleIdjava.lang.Long2(removeAllUsersFromRole(Ljava/lang/Long;)">
+4 4(:2
+0
+%1*com.dailycodework.lakesidehotel.model.Role:$
+3' 3(J
+roleIdjava.lang.LongB=;
+9com.dailycodework.lakesidehotel.controller.RoleControllerH

@@ -1,0 +1,3 @@
+com.dailycodework.lakesidehotel.service.BookingService#getBookingsByUserEmail(Ljava/lang/String;)Ljava/util/List;
+==
+findByGuestEmail com.dailycodework.lakesidehotel.repository.BookingRepository#findByGuestEmail(Ljava/lang/String;)Ljava/util/List;

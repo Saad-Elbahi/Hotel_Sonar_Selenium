@@ -1,0 +1,18 @@
+response.BookingResponseTest#testBookingResponseConstructor()V
+com.dailycodework.lakesidehotel.response.BookingResponse#<init>(Ljava/lang/Long;Ljava/time/LocalDate;Ljava/time/LocalDate;Ljava/lang/String;Ljava/lang/String;IIILjava/lang/String;Lcom/dailycodework/lakesidehotel/response/RoomResponse;)V
+com.dailycodework.lakesidehotel.response.BookingResponse#instance-init#
+com.dailycodework.lakesidehotel.response.RoomResponse#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+java.time.LocalDate#plusDays(J)Ljava/time/LocalDate;
+com.dailycodework.lakesidehotel.response.RoomResponse#<init>(Ljava/lang/Long;Ljava/lang/String;Ljava/math/BigDecimal;)V
+==
+getTotalNumOfGuests com.dailycodework.lakesidehotel.response.BookingResponse#getTotalNumOfGuests()I
+getBookingConfirmationCode com.dailycodework.lakesidehotel.response.BookingResponse#getBookingConfirmationCode()Ljava/lang/String;
+getCheckInDate com.dailycodework.lakesidehotel.response.BookingResponse#getCheckInDate()Ljava/time/LocalDate;
+getRoom com.dailycodework.lakesidehotel.response.BookingResponse#getRoom()Lcom/dailycodework/lakesidehotel/response/RoomResponse;
+getNumOfAdults com.dailycodework.lakesidehotel.response.BookingResponse#getNumOfAdults()I
+getCheckOutDate com.dailycodework.lakesidehotel.response.BookingResponse#getCheckOutDate()Ljava/time/LocalDate;
+getGuestName com.dailycodework.lakesidehotel.response.BookingResponse#getGuestName()Ljava/lang/String;
+getNumOfChildren com.dailycodework.lakesidehotel.response.BookingResponse#getNumOfChildren()I
+getId com.dailycodework.lakesidehotel.response.BookingResponse#getId()Ljava/lang/Long;
+getGuestEmail com.dailycodework.lakesidehotel.response.BookingResponse#getGuestEmail()Ljava/lang/String;

@@ -1,0 +1,6 @@
+controller.RoleControllerTest#assignUserToRole_ValidUserIdAndRoleId_CallsService()V
+com.dailycodework.lakesidehotel.model.User#<init>()V
+com.dailycodework.lakesidehotel.model.User#instance-init#
+==
+assignRoleToUser com.dailycodework.lakesidehotel.service.IRoleService#assignRoleToUser(Ljava/lang/Long;Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/User;
+assignUserToRole com.dailycodework.lakesidehotel.controller.RoleController#assignUserToRole(Ljava/lang/Long;Ljava/lang/Long;)Lcom/dailycodework/lakesidehotel/model/User;
